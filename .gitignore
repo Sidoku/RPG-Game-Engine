@@ -1,0 +1,8 @@
+.idea/
+Engine/lab.dSYM
+cmake-build-debug
+build.py
+Engine/images/tiles/.DS_Store
+Engine/lab
+Engine/.DS_Store
+../build
